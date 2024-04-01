@@ -2,6 +2,10 @@
 
 Este repositorio contiene un proyecto Node.js con una aplicación frontend construida en React. Se puede utilizar npm o Docker para levantar la aplicación.
 
+## Instalación de Node 20
+
+Primeramente debemos tener Node.js versión 20 instalado en nuestro sistema. Podemos descargar la versión 20 de Node.js desde el sitio oficial de Node.js: [Descargas de Node.js.](https://nodejs.org/en/download/current)
+
 ## Comandos del Proyecto con NPM
 
 ##_Ruta en la que se deberá de ejecutar todo lo indicado en esta guía_##
