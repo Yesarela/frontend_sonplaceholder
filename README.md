@@ -4,6 +4,10 @@ Este repositorio contiene un proyecto Node.js con una aplicación frontend const
 
 ## Comandos del Proyecto con NPM
 
+##_Ruta en la que se deberá de ejecutar todo lo indicado en esta guía_##
+
+```..\frontend_sonplaceholder\my-react-app```
+
 ### 1. Instalación de dependencias
 
 ```npm install```
